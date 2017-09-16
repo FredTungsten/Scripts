@@ -43,8 +43,6 @@
         <File Name="EnduranceProject.txt" />
         <File Name="Fap Hero -  Blue Ero Garden.funscript" />
         <File Name="Fap Hero -  Blue Ero Garden.txt" />
-        <File Name="Fap Hero -  Witch Slave Anerose.funscript" />
-        <File Name="Fap Hero -  Witch Slave Anerose.txt" />
         <File Name="Fap Hero - A Fool's Hero.funscript" />
         <File Name="Fap Hero - Brawl.funscript" />
         <File Name="Fap Hero - Demon Lord Adventures.funscript" />
@@ -87,6 +85,8 @@
         <File Name="Fap Hero - Throbbin &amp; Jobbin 3.txt" />
         <File Name="Fap Hero - Throbbin &amp; Jobbin.funscript" />
         <File Name="Fap Hero - Throbbin &amp; Jobbin.txt" />
+        <File Name="Fap Hero - Witch Slave Anerose.funscript" />
+        <File Name="Fap Hero - Witch Slave Anerose.txt" />
         <File Name="Fap Hero by DannySir - First Project.funscript" />
         <File Name="Fap Hero by DannySir - First Project.txt" />
         <File Name="FapHero - Perfection.funscript" />
@@ -98,10 +98,17 @@
         <File Name="Gu's Faphero.txt" />
         <File Name="Raptor - Super Fap Hero Turbo.funscript" />
         <File Name="Raptor - Super Fap Hero Turbo.txt" />
+        <File Name="SAGE FH - HMV and CHILL.funscript" />
+        <File Name="SAGE FH - HMV and CHILL.txt" />
         <File Name="StudioFow Fap Hero.funscript" />
         <File Name="StudioFow Fap Hero.txt" />
         <File Name="Summer House Party.funscript" />
         <File Name="Summer House Party.txt" />
+      </Files>
+    </Directory>
+    <Directory Name="Other">
+      <Files>
+        <File Name="Mia Rand - A Worthy Talent.funscript" />
       </Files>
     </Directory>
   </Directories>
