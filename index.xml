@@ -2,6 +2,35 @@
 <DirectoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Scripts">
   <Directories>
     <Directory Name="Cock Hero">
+      <Directories>
+        <Directory Name="CHNG+2">
+          <Files>
+            <File Name="CHNG+2 01 Intro.funscript" />
+            <File Name="CHNG+2 02 Round 1.funscript" />
+            <File Name="CHNG+2 03 Break 1.funscript" />
+            <File Name="CHNG+2 04 Round 2.funscript" />
+            <File Name="CHNG+2 05 Break 2.funscript" />
+            <File Name="CHNG+2 06 Round 3 - One Win Required.funscript" />
+            <File Name="CHNG+2 07 Break 3.funscript" />
+            <File Name="CHNG+2 08 Round 4.funscript" />
+            <File Name="CHNG+2 09 Break 4.funscript" />
+            <File Name="CHNG+2 10 Round 5.funscript" />
+            <File Name="CHNG+2 11 Break 5.funscript" />
+            <File Name="CHNG+2 12 Round 6 - Two Wins Required.funscript" />
+            <File Name="CHNG+2 13 Break 6.funscript" />
+            <File Name="CHNG+2 14 Round 7.funscript" />
+            <File Name="CHNG+2 15 Break 7.funscript" />
+            <File Name="CHNG+2 16 Round 8.funscript" />
+            <File Name="CHNG+2 17 Break 8.funscript" />
+            <File Name="CHNG+2 18 Round 9 - One Win Required.funscript" />
+            <File Name="CHNG+2 19 Break 9.funscript" />
+            <File Name="CHNG+2 20 Round 10.funscript" />
+            <File Name="CHNG+2 21 Break 10.funscript" />
+            <File Name="CHNG+2 22 Round 11 - Complete All Ten To Play.funscript" />
+            <File Name="CHNG+2 23 Credits.funscript" />
+          </Files>
+        </Directory>
+      </Directories>
       <Files>
         <File Name="CH Audition - withBM.funscript" />
         <File Name="CH Audition - withBM.txt" />
@@ -9,6 +38,8 @@
         <File Name="CH-Audition-E2-BM.txt" />
         <File Name="CH_FINALCLIMAX.funscript" />
         <File Name="CH_FINALCLIMAX.txt" />
+        <File Name="CH_NG+.funscript" />
+        <File Name="CH_NG+.txt" />
         <File Name="Cock Hero - 1984.funscript" />
         <File Name="Cock Hero - 1984.txt" />
         <File Name="Cock Hero - Awesome-X Temptation 4.funscript" />
@@ -29,6 +60,10 @@
         <File Name="Cock Hero - Fuse.funscript" />
         <File Name="Cock Hero - Fuse.txt" />
         <File Name="Cock Hero - Getting Rough.funscript" />
+        <File Name="Cock Hero - Groove 2.funscript" />
+        <File Name="Cock Hero - Groove 2.txt" />
+        <File Name="Cock Hero - Inferno Canto 1.funscript" />
+        <File Name="Cock Hero - Inferno Canto 1.txt" />
         <File Name="Cock Hero - Latex 2.funscript" />
         <File Name="Cock Hero - Levels 3.1.funscript" />
         <File Name="Cock Hero - Levels 3.1.txt" />
@@ -40,6 +75,8 @@
         <File Name="Cock Hero - Miami Nights.txt" />
         <File Name="Cock Hero - Non-Stop.funscript" />
         <File Name="Cock Hero - OSU!.funscript" />
+        <File Name="Cock Hero - Personality.funscript" />
+        <File Name="Cock Hero - Personality.txt" />
         <File Name="Cock Hero - Pink Complex.funscript" />
         <File Name="Cock Hero - Pink Complex.txt" />
         <File Name="Cock Hero - POV 2.funscript" />
@@ -110,12 +147,16 @@
         <File Name="Fap Hero - Final Faptasy.txt" />
         <File Name="Fap Hero - Forbidden Paradise.funscript" />
         <File Name="Fap Hero - Forbidden Paradise.txt" />
+        <File Name="Fap Hero - Fuck Mix (Beat Edition).funscript" />
+        <File Name="Fap Hero - Fuck Mix (Beat Edition).txt" />
         <File Name="Fap Hero - Futabu.funscript" />
         <File Name="Fap Hero - Futabu.txt" />
         <File Name="Fap Hero - Harder Longer Girthiest.funscript" />
         <File Name="Fap Hero - Harder Longer Girthiest.txt" />
         <File Name="Fap Hero - Hell (Final Cut).funscript" />
         <File Name="Fap Hero - Hell (Final Cut).txt" />
+        <File Name="Fap Hero - Hentai Highschool.funscript" />
+        <File Name="Fap Hero - Hentai Highschool.txt" />
         <File Name="Fap Hero - Henthype.funscript" />
         <File Name="Fap Hero - Henthype.txt" />
         <File Name="Fap Hero - Hentype (Hard Mode).funscript" />
@@ -124,6 +165,8 @@
         <File Name="Fap Hero - HMV &amp; Chill (theblacknsage) Hard Mode.txt" />
         <File Name="Fap Hero - Imouto (Hard Mode).funscript" />
         <File Name="Fap Hero - Imouto (Hard Mode).txt" />
+        <File Name="Fap Hero - Lovin your flow.funscript" />
+        <File Name="Fap Hero - Lovin your flow.txt" />
         <File Name="Fap Hero - Mega Fap Mash.funscript" />
         <File Name="Fap Hero - Mega Fap Mash.txt" />
         <File Name="Fap Hero - Metronome (Hosted).funscript" />
@@ -134,6 +177,10 @@
         <File Name="Fap Hero - MMD.txt" />
         <File Name="Fap Hero - My boo.funscript" />
         <File Name="Fap Hero - My boo.txt" />
+        <File Name="Fap Hero - Original Fap Hero (fix).funscript" />
+        <File Name="Fap Hero - Original Fap Hero (fix).txt" />
+        <File Name="Fap Hero - Original Fap Hero (Imouto Version).funscript" />
+        <File Name="Fap Hero - Original Fap Hero (Imouto Version).txt" />
         <File Name="Fap Hero - Overwatch Edition.funscript" />
         <File Name="Fap Hero - Overwatch Edition.txt" />
         <File Name="Fap Hero - Pandeon Zwei - Pantyhose.funscript" />
@@ -143,9 +190,17 @@
         <File Name="Fap Hero - Pendulum (No-host).funscript" />
         <File Name="Fap Hero - Pervert.funscript" />
         <File Name="Fap Hero - Pervert.txt" />
+        <File Name="Fap Hero - Pulse.funscript" />
+        <File Name="Fap Hero - Pulse.txt" />
         <File Name="Fap Hero - Raptor's SuperFapHero.funscript" />
+        <File Name="Fap Hero - Relentless Loops.funscript" />
+        <File Name="Fap Hero - Relentless Loops.txt" />
         <File Name="Fap Hero - School of Sin (Hard Mode).funscript" />
         <File Name="Fap Hero - School of Sin (Hard Mode).txt" />
+        <File Name="Fap Hero - School of Sin.funscript" />
+        <File Name="Fap Hero - School of Sin.txt" />
+        <File Name="Fap Hero - Secret Island REMIX.funscript" />
+        <File Name="Fap Hero - Secret Island REMIX.txt" />
         <File Name="Fap Hero - Secret Island.funscript" />
         <File Name="Fap Hero - Secret Island.txt" />
         <File Name="Fap Hero - StarTrak Remaster.funscript" />
@@ -159,6 +214,8 @@
         <File Name="Fap Hero - The Day I will come visit you.txt" />
         <File Name="Fap Hero - The intense Fappening of hardcore mickey.funscript" />
         <File Name="Fap Hero - The intense Fappening of hardcore mickey.txt" />
+        <File Name="Fap Hero - The Seductive Grimoire (Hard Mode).funscript" />
+        <File Name="Fap Hero - The Seductive Grimoire (Hard Mode).txt" />
         <File Name="Fap Hero - Throbbin &amp; Jobbin 2.funscript" />
         <File Name="Fap Hero - Throbbin &amp; Jobbin 2.txt" />
         <File Name="Fap Hero - Throbbin &amp; Jobbin 3.funscript" />
@@ -182,8 +239,6 @@
         <File Name="FapHero - Perfection.funscript" />
         <File Name="FH Futa Dream.funscript" />
         <File Name="FH Futa Dream.txt" />
-        <File Name="FH Short Unnamed Clip.funscript" />
-        <File Name="FH Short Unnamed Clip.txt" />
         <File Name="FINAL cut FH BELISSIMO.funscript" />
         <File Name="FINAL cut FH BELISSIMO.txt" />
         <File Name="FxxkinHero.funscript" />
