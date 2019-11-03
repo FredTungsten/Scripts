@@ -6,7 +6,9 @@ Storage for all finished scripts for the ScriptPlayer
 ### Cloning the repository
 
 If you don't have a git client already, the simplest one to use might be [GitHub's Desktop Client](https://desktop.github.com/).  
-The checkout-url is `https://github.com/FredTungsten/Scripts.git`
+
+The checkout-url is `https://github.com/FredTungsten/Scripts.git`  
+(File - Clone Repository - URL)
 
 ### All at once
 
