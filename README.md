@@ -3,6 +3,11 @@ Storage for all finished scripts for the ScriptPlayer
 
 ## How to download scripts
 
+### Cloning the repository
+
+If you don't have a git client already, the simplest one to use might be [GitHub's Desktop Client](https://desktop.github.com/).  
+The checkout-url is `https://github.com/FredTungsten/Scripts.git`
+
 ### All at once
 
 Simply click the green "Clone or download" button and select "Download ZIP"
