@@ -1,5 +1,6 @@
 # Scripts
-Storage for all finished scripts for the ScriptPlayer
+Storage for all finished scripts for [ScriptPlayer](https://github.com/FredTungsten/ScriptPlayer).  
+All scripts except really old ones have been shifted -100 ms to account for software and device latency.
 
 ## How to download scripts
 
